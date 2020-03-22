@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "108086653093",
+    "firebase_url": "https://fiprhackathon.firebaseio.com",
+    "project_id": "fiprhackathon",
+    "storage_bucket": "fiprhackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108086653093:android:84960a4cbee6269903dd4c",
+        "android_client_info": {
+          "package_name": "com.test.fliprhack_trello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108086653093-r9utrjsc9nq9ol2h54bmc4jf76itvmfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.fliprhack_trello",
+            "certificate_hash": "3172a079b3c42a7154ec47c850f2b823b06cb86b"
+          }
+        },
+        {
+          "client_id": "108086653093-60hthnolpu1h424vhkp1dl7s830p6phe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGuhTXtpIt3yqitzT_U301Fns34aufTnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108086653093-60hthnolpu1h424vhkp1dl7s830p6phe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
