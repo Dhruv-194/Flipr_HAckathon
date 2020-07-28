@@ -1,2 +1,2 @@
 # Flipr_HAckathon
-This Repo is only for Flipr Hackathon purpose only.
+This repository is of the app which I had to submit in the Flipr hackathon in which I participated. 
