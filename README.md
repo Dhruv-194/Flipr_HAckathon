@@ -5,4 +5,4 @@ This repository is of the app which I had to submit in the Flipr hackathon in wh
 I have made this app using Android studio and integrating it with Firebase database. I have added in the same Firebase [Login-Register](https://github.com/Dhruv-194/Login-Register-app) system for the user authentication. And then also used the Firebase database to upload users data and all the information given by him/her. Apart from this, Firebase database is also used to store the information put by the user in the lists and the cards. 
 
 # Screenshots of the App- 
-<img src="Screenshots/Screenshot_20200323-014359.png" width = "200" height = "400"  > <img src="Screenshots/Screenshot_20200323-014403.png" width = "200" height = "400" hspace="20" > 
+<img src="Screenshots/Screenshot_20200323-014359.png" width = "200" height = "400"  > <img src="Screenshots/Screenshot_20200323-014403.png" width = "200" height = "400" hspace="20" > <img src="Screenshots/Screenshot_20200323-014425.png" width = "200" height = "400" > <img src="Screenshots/Screenshot_20200323-014707.png" width = "200" height = "400" hspace="20" >
